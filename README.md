@@ -39,6 +39,7 @@ pip install scikit-learn pandas numpy xgboost
 1. Clone this repository:
 
   git clone https://github.com/nirajccs1999/smartrent-predictor.git
+  
   cd smartrent-predictor
 
 2. Ensure you have the necessary dataset.
