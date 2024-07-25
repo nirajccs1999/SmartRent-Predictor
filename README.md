@@ -21,8 +21,9 @@ To run the code in this repository, you need the following dependencies:
 
 You can install the required packages using pip:
 
-```bash
+
 pip install scikit-learn pandas numpy xgboost
+
 
 ## Models Implemented
 
